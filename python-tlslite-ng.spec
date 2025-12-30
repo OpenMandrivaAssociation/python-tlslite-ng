@@ -1,6 +1,6 @@
 Name:		python-tlslite-ng
 Version:	0.8.2
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/t/tlslite-ng/tlslite_ng-%{version}.tar.gz
 Summary:	Pure python implementation of SSL and TLS.
 URL:		https://pypi.org/project/tlslite-ng/
